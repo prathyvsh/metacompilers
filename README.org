@@ -5,6 +5,17 @@
 *** Meta II: Original Paper
 http://www.ibm-1401.info/Meta-II-schorre.pdf
 
+*** Alan Kay interview with Joe Armstrong
+
+A really great watch. Has a wealth of information about how we got where we are now.
+https://www.youtube.com/watch?v=fhOHn9TClXY
+
+** Materials Read
+
+*** Meta II: An Early Compiler
+http://onfoodandcoding.blogspot.com/2013/02/meta-ii-early-meta-compiler.html
+Breezy read on the fun author had on implementing Meta II and what he learnt from it.
+
 *** Review on ACM
 [[https://queue.acm.org/detail.cfm?id=2724586][META II: Digital Vellum in the Digital Scriptorium]]
 As the quote that appears at the end of the essay:
