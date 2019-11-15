@@ -24,3 +24,8 @@ As the quote that appears at the end of the essay:
 
 Readable for the thread the author weaves, but if one is looking to understand the paper deeply, I think, going down the hands-on route is the best way as the paper is about technique as much as theory.
 
+** To Read
+
+*** Meta II Tutorial and Workshop
+http://www.bayfronttechnologies.com/mc_tutorial.html
+http://www.bayfronttechnologies.com/mc_workshop.html
