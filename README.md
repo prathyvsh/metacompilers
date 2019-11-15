@@ -1,2 +1,0 @@
-# metacompilers
-Learning Metacompilers
